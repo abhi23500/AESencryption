@@ -1,4 +1,5 @@
 # AESencryption
 AES256bit Encryption and Decryption
 
-For Details : https://medium.com/@hakkitoklu/aes256-encryption-decryption-in-android-2fae6938fc2b
+You can follow me on my Insta : the_computer_bro
+on Linkedin : https://www.linkedin.com/in/abhishek-singh-55a29818a/
