@@ -1,7 +1,7 @@
 # AESencryption
 AES256bit Encryption and Decryption
 
-You can follow me on my Insta : the_computer_bro
+You can follow me on my Insta : abhiiiiii.23
 
 
-on Linkedin : https://www.linkedin.com/in/abhishek-singh-55a29818a/
+on Linkedin : https://www.linkedin.com/in/abhishek23500/
